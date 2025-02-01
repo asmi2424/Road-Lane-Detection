@@ -35,7 +35,7 @@ Displaying the Results: The detected lanes are displayed on the image or video.
 # Example Output
 The detected lane lines will be highlighted in blue on the road image or video. The processed frames or image are displayed using OpenCV's cv2.imshow function.
 ![Screenshot (64)](https://github.com/user-attachments/assets/00247d5a-4fb3-47f4-8870-73ad1ea6c738)
-https://github.com/user-attachments/assets/4331adc9-d6ec-40ed-95ed-b3b63fb03809
+
 
 
 
